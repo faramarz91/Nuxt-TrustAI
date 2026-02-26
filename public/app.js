@@ -1,1 +1,1 @@
-(() => import('./.output/server/index.mjs'))();
+(() => import('./server/index.mjs'))();
